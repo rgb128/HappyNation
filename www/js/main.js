@@ -1,0 +1,1 @@
+(()=>{var e=document.createElement("div");e.innerText="hello wortld",document.body.appendChild(e)})();
